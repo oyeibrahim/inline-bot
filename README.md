@@ -23,6 +23,3 @@ GitHub:
 https://github.com/telegraf/telegraf
 
 start command implemented with async to demonstrate how to use async with Telegraf
-
-
-Contact me: oyetunjiibrahim@gmail.com
